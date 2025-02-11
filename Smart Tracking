@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Encuentra Smart Tracking Collar de Paws Tracks: el mejor rastreador GPS para perros. Visítanos en nuestra dirección o síguenos en redes sociales." />
+  <meta name="keywords" content="Rastreador, GPS, Collares, Localizador, Seguimiento" />
+  <meta name="author" content="Paws Tracks" />
+  <title>Paws Tracks - Smart Tracking Collar</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f9f9f9;
+      color: #333;
+    }
+    header {
+      background-color: #4CAF50;
+      color: white;
+      padding: 1rem 0;
+      text-align: center;
+    }
+    nav {
+      background-color: #333;
+      padding: 0.5rem;
+    }
+    nav ul {
+      display: flex;
+      justify-content: center;
+      list-style: none;
+    }
+    nav ul li {
+      margin: 0 1rem;
+    }
+    nav ul li a {
+      color: white;
+      text-decoration: none;
+    }
+    .hero {
+      background: url('https://via.placeholder.com/1500x400') no-repeat center center/cover;
+      color: white;
+      padding: 4rem 0;
+      text-align: center;
+    }
+    .hero h1 {
+      font-size: 3rem;
+    }
+    .content {
+      padding: 2rem;
+      text-align: center;
+    }
+    .features {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+      gap: 1.5rem;
+      padding: 2rem;
+    }
+    .feature-card {
+      background-color: white;
+      padding: 1.5rem;
+      border: 1px solid #ddd;
+      border-radius: 8px;
+    }
+    footer {
+      background-color: #333;
+      color: white;
+      padding: 1rem 0;
+      text-align: center;
+    }
+    .map-section {
+      padding: 2rem;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Paws Tracks - Smart Tracking Collar</h1>
+  </header>
+
+  <nav>
+    <ul>
+      <li><a href="#features">Beneficios</a></li>
+      <li><a href="#about">Acerca de</a></li>
+      <li><a href="#contact">Contacto</a></li>
+    </ul>
+  </nav>
+
+  <section class="hero">
+    <h1>Cuida de tu mascota con Smart Tracking Collar</h1>
+    <p>El collar rastreador que mantiene a tu mejor amigo siempre localizado.</p>
+  </section>
+
+  <section id="features" class="content">
+    <h2>Beneficios de Smart Tracking Collar</h2>
+    <div class="features">
+      <div class="feature-card">
+        <h3>Localización GPS</h3>
+        <p>Sigue el paradero de tu perro en tiempo real desde cualquier dispositivo.</p>
+      </div>
+      <div class="feature-card">
+        <h3>Alertas de Seguridad</h3>
+        <p>Recibe notificaciones si tu mascota sale de una zona segura.</p>
+      </div>
+      <div class="feature-card">
+        <h3>Batería de Larga Duración</h3>
+        <p>Hasta 7 días de duración con una sola carga.</p>
+      </div>
+    </div>
+  </section>
+
+  <section id="about" class="content">
+    <h2>Acerca de Paws Tracks</h2>
+    <p>Paws Tracks nació del amor por las mascotas y la necesidad de ofrecer una solución para mantenerlas seguras. Nuestro collar rastreador combina tecnología avanzada con un diseño cómodo y resistente.</p>
+  </section>
+
+  <section id="contact" class="content">
+    <h2>Contacto</h2>
+    <p>Para más información, escríbenos a <a href="mailto:info@pawstracks.com">info@pawstracks.com</a></p>
+  </section>
+
+  <section class="map-section">
+    <h2>Encuéntranos</h2>
+    <p>Dirección: Calle Principal #123, Ciudad, País</p>
+    <p>Horario: Lunes a Viernes de 9:00 a.m. a 6:00 p.m.</p>
+    <img src="https://via.placeholder.com/600x300" alt="Mapa de ubicación">
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Paws Tracks. Todos los derechos reservados.</p>
+  </footer>
+</body>
+</html>
